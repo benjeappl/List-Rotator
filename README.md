@@ -1,2 +1,2 @@
 # List-Rotator
-Objects for rotating through a list of values
+object interface for making rotation through a list of values
